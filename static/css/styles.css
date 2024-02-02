@@ -1,0 +1,13 @@
+.active {
+	background-color: greenyellow;
+}
+a {
+	height: 58px;
+	width: max-content;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-style: solid;
+	border-radius: 20px;
+	text-decoration: none;
+}
